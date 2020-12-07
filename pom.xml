@@ -32,5 +32,6 @@
 		<module>javaExample</module>
 		<module>dataStructureWithJava</module>
 		<module>algorithmWithJava</module>
+		<module>basicExceriseOfJava</module>
 	</modules>
 </project>
